@@ -16,8 +16,8 @@ Welcome to the React PDF Starter Toolkit! This repository provides a comprehensi
 1. **Clone the Repository**: If you haven't already, clone the repository and navigate into the project directory.
 
    ```bash
-   git clone https://github.com/reactpdf/start-rp-react-vite-ts-turborepo.git
-   cd start-rp-react-vite-ts-turborepo
+   git clone https://github.com/react-pdf-dev/starter-rp-react-vite-ts-turborepo.git
+   cd starter-rp-react-vite-ts-turborepo
    ```
 
 2. **Install Dependencies**: Install the necessary dependencies using npm, yarn, pnpm or bun.
